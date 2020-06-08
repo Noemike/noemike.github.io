@@ -14,7 +14,6 @@
 a:link, a:visited {
   color: #E9F7C8;
   text-decoration: none; 
-  decoration: none; 
 }
 
 .paragraph {
@@ -110,7 +109,7 @@ blockquote {
 .allcaps {
   text-transform: uppercase;
   margin-bottom: 40px;
-}
+};
   
 h4 {
   font-family: 'Merriweather', serif;
