@@ -133,3 +133,13 @@ section {
   margin-right: 0px;
   width: 50%;
 }
+
+
+button {
+  margin: 5px;
+  padding: 8px;
+  border: 1px solid aqua;
+  border-radius: 50%;
+  background-color: #2C5962;
+
+}

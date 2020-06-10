@@ -11,11 +11,3 @@ $('#button2').on('click', function () {
 $('#button3').click (() => {
     $('button').css("background-color","blue")
 });
-
-// 8.Add some fun feature to your Event Listeners
-
-let colors = ['blue', 'red', 'yellow', 'green']
-colors='blue'
-
-
-
