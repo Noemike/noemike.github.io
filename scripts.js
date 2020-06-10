@@ -15,3 +15,8 @@ $('#button3').click (() => {
 // 8.Add some fun feature to your Event Listeners
 
 let colors = ['blue', 'red', 'yellow', 'green']
+colors='blue'
+
+if (colors='red') {
+    $(#button3)
+}
