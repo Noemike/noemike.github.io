@@ -17,6 +17,5 @@ $('#button3').click (() => {
 let colors = ['blue', 'red', 'yellow', 'green']
 colors='blue'
 
-if (colors='red') {
-    $(#button3)
-}
+
+
